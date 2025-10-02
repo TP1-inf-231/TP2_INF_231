@@ -67,15 +67,15 @@ Ce projet contient 5 programmes en C qui illustrent différentes structures de l
 Pour compiler les programmes, utilisez `gcc` :
 
 ```bash
-gcc 2.c -o prog2
-gcc 4.c -o prog4
-gcc d2c.c -o prog_d2c
+gcc 2.c -o prog..
+gcc 4.c -o prog...
+gcc d2c.c -o prog....
 
 executer le programme comme suit :
-./prog2
-./prog4
-./prog_d2c
-
+./prog..
+./prog...
+./prog....
+```
 ##-ORGANISATION 
 
 Étudiants en Licence Informatique
